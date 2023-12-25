@@ -2,14 +2,14 @@
 
 ## Tool Description
 
-Tensor Trade is the leading marketplace to trade NFTs. There are rumors
+Tensor Trade is the leading Solana NFT marketplace. There are rumors
 that the season 3 of their point system will lead to a $TNSR token airdrop.
 
 ## Duties
 
 * Set collection-wide bids on top volume collections (close to the floor)
 * List NFTs on top volume collections (close to the floor)
-* Set AMMs on top volume collections
+* Set [AMMs](https://thewise.trade/amm-trading-guide) on top volume collections
 * Invite friends
 * Stake a Tensorian (platform NFT)
 
