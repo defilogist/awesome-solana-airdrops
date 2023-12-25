@@ -15,7 +15,7 @@ like dca, limit orders and perps.
 
 ## Risks
 
-The platform is battle-hardened, but like any app there is still a risk that the platform is compromised. 
+The platform is battle-hardened, but like any app there is still a risk that the platform get compromised. 
 
 ## Release Date
 
