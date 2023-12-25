@@ -23,7 +23,7 @@ In this awesome listing, we provide guides to make you eligible to these airdrop
 
 ## Strategies
 
-* Multi liquidity provider
+* [Multi liquidity provider](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/multi-liquidity-provider.md)
 
 ## Utilities
 
