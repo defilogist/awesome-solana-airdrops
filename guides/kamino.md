@@ -1,4 +1,4 @@
-# Banx
+# Kamino Finance
 
 Work In Progress
 
