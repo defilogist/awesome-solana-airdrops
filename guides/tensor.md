@@ -7,7 +7,8 @@ that the season 3 of their point system will lead to a $TNSR token airdrop.
 
 ## Duties
 
-* Set collection-wide bids on top volume collections
+* Set collection-wide bids on top volume collections (close to the floor)
+* List NFTs on top volume collections (close to the floor)
 * Set AMMs on top volume collections
 * Invite friends
 * Stake a Tensorian (platform NFT)
