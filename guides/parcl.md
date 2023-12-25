@@ -25,3 +25,9 @@ N/A
 ## Estimation
 
 N/A - TVL: > $14M
+
+## Links
+
+* https://app.parcl.co/
+* https://twitter.com/parcl
+* https://discord.com/invite/parcl
