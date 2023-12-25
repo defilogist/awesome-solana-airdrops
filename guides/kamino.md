@@ -30,6 +30,6 @@ TVL: > $200M
 
 ## Links
 
-https://kamino.finance/
-https://twitter.com/kamino_finance
-https://discord.com/invite/22esKdZkMD
+* https://kamino.finance/
+* https://twitter.com/kamino_finance
+* https://discord.com/invite/22esKdZkMD
