@@ -14,7 +14,7 @@ In this awesome listing, we provide guides to make you eligible to these airdrop
 * [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
 * [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
-* [Parcl]([#parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md))
+* [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [SolBlaze](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/solblaze.md)
