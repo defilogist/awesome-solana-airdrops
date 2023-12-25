@@ -12,6 +12,7 @@ like dca, limit orders and perps.
 * If you supported the project before November 2nd, let them know: https://goodcats.jup.ag/
 * It is said that other waves will occur. So use Jupiter for all your swaps and use their new tools
   (DCA, limit orders and perps).
+* Provide liquiditiies to their Perps system.
 
 ## Risks
 
