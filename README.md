@@ -13,8 +13,8 @@ In this awesome listing, we provide guides to make you eligible to these airdrop
 * [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
 * [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
 * [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
-* [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
+* [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [SolBlaze](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/solblaze.md)
@@ -35,6 +35,10 @@ In this awesome listing, we provide guides to make you eligible to these airdrop
 * [JITO](https://www.jito.wtf/)
 * [Racket](https://racket.wtf/)
 * [Bonkmas](https://bonkmas.com/)
+
+## Contributing
+
+Any contribution is welcome, open a PR for any addition!
 
 ## Tipping
 
