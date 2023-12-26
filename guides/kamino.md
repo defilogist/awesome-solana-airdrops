@@ -23,7 +23,7 @@ are the safest.
 
 Unknown
 
-## Estimation
+## Estimate
 
 N/A
 TVL: > $200M
