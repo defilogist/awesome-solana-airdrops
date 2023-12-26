@@ -10,7 +10,7 @@ In this awesome listing, we provide guides to make you eligible to these airdrop
 it requires to understand what you are doing. So, do your own research and be careful before performing
 any operation (test with small amounts first, monitor it, etc.).
 
-We are not responsible to any loss due to the usage of this platform or due to a wrong trading position.
+We are not responsible to any loss due to the usage of these platforms or due to a wrong trading position.
 
 ## Upcoming aidrops
 
