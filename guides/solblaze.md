@@ -22,7 +22,7 @@ My referral link: https://stake.solblaze.org/?r=3fe2408ef2955137
 
 N/A
 
-## Estimation
+## Estimate
 
 N/A - TVL: >200M$ (JITO is at >$600M)
 
