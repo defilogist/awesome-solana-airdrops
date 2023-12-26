@@ -6,7 +6,11 @@ The Solana blockchain experienced recently a big surge of interest. Many applica
 are now in a position where they can launch their tokens. In this context, they reward their early contributors.
 Because their usage is already high, these rewards may be important.
 
-In this awesome listing, we provide guides to make you eligible to these airdrops.
+In this awesome listing, we provide guides to make you eligible to these airdrops. But keep in mind that
+it requires to understand what you are doing. So, do your own research and be careful before performing
+any operation (test with small amounts first, monitor it, etc.).
+
+We are not responsible to any loss due to the usage of this platform or due to a wrong trading position.
 
 ## Upcoming aidrops
 
@@ -17,6 +21,7 @@ In this awesome listing, we provide guides to make you eligible to these airdrop
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
+* Phoenix
 * [SolBlaze](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/solblaze.md)
 * [Tensor](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
