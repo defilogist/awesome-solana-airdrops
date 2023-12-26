@@ -21,7 +21,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
-* Phoenix
+* [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 * [SolBlaze](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/solblaze.md)
 * [Tensor](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
