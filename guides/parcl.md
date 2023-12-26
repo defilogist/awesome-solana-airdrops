@@ -22,7 +22,7 @@ My referral code: wisestrade
 
 N/A
 
-## Estimation
+## Estimate
 
 N/A - TVL: > $14M
 
