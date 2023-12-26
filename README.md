@@ -14,19 +14,33 @@ The airdrops are point-based, more volume = better rewards.
 
 We are not responsible to any loss due to the usage of these platforms or due to a wrong trading position.
 
+
 ## Upcoming aidrops
 
+#### Lending / Borrowig
+
 * [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
-* [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
-* [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
-* [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
+
+#### Liquidity Providing / Staking
+
+* [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
-* [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 * [SolBlaze](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/solblaze.md)
+  
+#### Trading
+
+* [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
+* [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
+* [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 * [Tensor](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
+  
+#### Leveraged Trading
+
+* [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
+
 
 ## Strategies
 
