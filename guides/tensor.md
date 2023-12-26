@@ -28,7 +28,7 @@ Ny referral link: https://www.tensor.trade/accept?ref=UVA094
 
 N/A - Seasons tend to last 6 to 9 months. The last one ended in July.
 
-## Estimation
+## Estimate
 
 N/A
 
