@@ -18,7 +18,7 @@ Phoenix is a fast trading application based on order books.
 
 N/A - This airdrop is not guaranteed, there are only rumors.
 
-## Estimation
+## Estimate
 
 * https://www.phoenix.trade
 * https://discord.com/invite/ESaTYGzqpd
