@@ -20,7 +20,7 @@ Bank is a lending/borrowing pltaform for NFTs
 
 N/A
 
-## Estimation
+## Estimate
 
 N/A
 
