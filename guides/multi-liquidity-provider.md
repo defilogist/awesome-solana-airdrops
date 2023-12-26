@@ -25,3 +25,10 @@ compromised or if you mess up with one of your deposit, you lose all your fundin
 * Stake kbSol-Sol in Lending on Kamino
 * Borrow sols on Kamino
 * Lend sols on any leverage platforms
+
+## Scenario 3
+
+* Lend some assets on MarginFi
+* Borrow Sols
+* Stake them on Solblaze
+* Create an bSOL-SOL LP on Kanino
