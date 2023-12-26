@@ -22,7 +22,7 @@ The platform is battle-hardened, but like any app there is still a risk that the
 
 The first wave should be dropped around mid-january
 
-## Estimation
+## Estimate
 
 2023/12/25: 0.85$ per token
 
