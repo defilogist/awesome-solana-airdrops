@@ -21,7 +21,7 @@ Drift proposes to do leveraged trading on the main pair of different blockchains
 
 N/A
 
-## Estimation
+## Estimate
 
 N/A - TVL: > $100M
 
