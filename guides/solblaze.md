@@ -24,7 +24,7 @@ N/A
 
 ## Estimation
 
-N/A - TVL: >200M$
+N/A - TVL: >200M$ (JITO is at >$600M)
 
 ## Links
 
