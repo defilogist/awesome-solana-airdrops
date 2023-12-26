@@ -9,6 +9,13 @@ compromised or if you mess up with one of your deposit, you lose all your fundin
 
 ## Scenario 1
 
+* Lend some assets on MarginFi
+* Borrow Sols
+* Stake them on Solblaze
+* Create an bSOL-SOL LP on Kanino
+
+## Scenario 2
+
 * Stake SOLs on SolBlaze
 * Provide bSOL-SOL liquidities on Kamino
 * Borrow Sols on Kamino
@@ -16,7 +23,7 @@ compromised or if you mess up with one of your deposit, you lose all your fundin
 * Borrow USDCs on Marginfi
 * Lend them on Parcl (30 days locking)
 
-## Scenario 2
+## Scenario 3
 
 * Buy a high-value NFT
 * Lend it on Banx
@@ -25,10 +32,3 @@ compromised or if you mess up with one of your deposit, you lose all your fundin
 * Stake kbSol-Sol in Lending on Kamino
 * Borrow sols on Kamino
 * Lend sols on any leverage platforms
-
-## Scenario 3
-
-* Lend some assets on MarginFi
-* Borrow Sols
-* Stake them on Solblaze
-* Create an bSOL-SOL LP on Kanino
