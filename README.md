@@ -34,6 +34,10 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
+
+#### NFT Trading
+
+* [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
 * [Tensor](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
   
 #### Leveraged Trading
