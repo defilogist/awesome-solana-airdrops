@@ -45,6 +45,9 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
 
+#### Meme
+
+* [BozoCoin](https://bozocoin.app/)
 
 ## Strategies
 
@@ -54,9 +57,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)
 
-## Meme
-
-* [BozoCoin](https://bozocoin.app/)
 
 ## Past airdrops
 
