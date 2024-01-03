@@ -48,6 +48,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 #### Meme
 
 * [BozoCoin](https://bozocoin.app/)
+* [PRNTR](https://twitter.com/printonsol/status/1742681941332079092)
 
 
 ### New Chains
