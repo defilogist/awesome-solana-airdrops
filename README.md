@@ -49,6 +49,12 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [BozoCoin](https://bozocoin.app/)
 
+
+### New Chains
+
+* [Dymension](https://twitter.com/dymension/status/1742185621299265738)
+
+
 ## Strategies
 
 * [Multi liquidity provider](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/multi-liquidity-provider.md)
@@ -57,9 +63,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)
 
-## New Chains
-
-* [Dymension](https://twitter.com/dymension/status/1742185621299265738)
 
 ## Past airdrops
 
