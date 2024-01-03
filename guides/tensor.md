@@ -12,6 +12,7 @@ that the season 3 of their point system will lead to a $TNSR token airdrop.
 * Set [AMMs](https://thewise.trade/amm-trading-guide) on top volume collections
 * Invite friends
 * Stake a Tensorian (platform NFT)
+* See this [thread](https://twitter.com/gr3gor14n/status/1740991856329335133) about how to farm points with bids
 
 The previous seasons rewarded mostly the bidding and the listing. 
 You can play with that aspects to farm as much points as possible while
