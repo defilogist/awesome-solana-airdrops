@@ -57,6 +57,9 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)
 
+## New Chains
+
+* [Dymension](https://twitter.com/dymension/status/1742185621299265738)
 
 ## Past airdrops
 
