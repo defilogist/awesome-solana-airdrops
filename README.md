@@ -17,10 +17,12 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 ## Upcoming aidrops
 
-#### Lending / Borrowig
+#### Lending / Borrowing
 
 * [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
+* [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md) - not guaranteed
+* [TextureFi](https://twitter.com/texture_fi) - not guaranteed
 
 #### Liquidity Providing / Staking
 
@@ -31,6 +33,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
   
 #### Trading
 
+* [BirdEye](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/birdeye.md) - not guaranteed
 * [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
