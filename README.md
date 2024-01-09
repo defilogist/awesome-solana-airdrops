@@ -53,11 +53,13 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [BozoCoin](https://bozocoin.app/)
 * [PRNTR](https://twitter.com/printonsol/status/1742681941332079092)
 
+#### Social
+
+* [DSCVR](https://dscvr.one/)
 
 ### New Chains
 
 * [Dymension](https://twitter.com/dymension/status/1742185621299265738)
-
 
 ## Strategies
 
