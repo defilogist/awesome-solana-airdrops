@@ -35,6 +35,10 @@ N/A
 
 $Blur has a >$1B marketcap.
 
+Hypothesis found on Twitter:
+![image](https://github.com/defilogist/awesome-solana-airdrops/assets/104030280/efa39e81-7188-4b61-aa7a-f21bff7af808)
+
+
 ## Links
 
 * https://www.tensor.trade/
