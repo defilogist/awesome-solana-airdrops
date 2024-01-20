@@ -11,7 +11,9 @@ borrowing/lending features and leverages on liquidity positions.
 
 * The best way to earn points on this platform is to provide liquidities. Stabe pools
 are the safest.
-* You can then use their borrowing and multiply features too but it comes with more risks. 
+* You can then use their borrowing and multiply features too but it comes with more risks.
+* You can use leverage for your pools too, but it comes with more risks.
+* See your points there: https://app.kamino.finance/points
 
 ## Risks
 
