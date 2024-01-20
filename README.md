@@ -21,7 +21,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
-* [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md) - not guaranteed
+* [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
 * [TextureFi](https://twitter.com/texture_fi) - not guaranteed
 
 #### Liquidity Providing / Staking
@@ -50,7 +50,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Meme
 
-* [BozoCoin](https://bozocoin.app/)
 * [PRNTR](https://twitter.com/printonsol/status/1742681941332079092)
 
 #### Social
@@ -76,7 +75,8 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [JITO](https://www.jito.wtf/)
 * [Racket](https://racket.wtf/)
 * [Bonkmas](https://bonkmas.com/)
-
+* [BozoCoin](https://bozocoin.app/)
+  
 ## Contributing
 
 Any contribution is welcome, open a PR for any addition!
