@@ -9,7 +9,8 @@ pools are used in lending vaults to give you extra fees.
 ## Duties
 
 * Lend some assets
-* Create pools of different kind: classic (LST), dynamic or multiple
+* Create pools of different kind: DLMM, classic (LST), dynamic or multiple
+* DLMM pools will be more rewarded
 * Participate to Discord discussions
 
 ## Risks
@@ -19,11 +20,11 @@ pools are used in lending vaults to give you extra fees.
 
 ## Release Date
 
-N/A - There is no airdrop confirmed yet.
+N/A 
 
 ## Estimate
 
-N/A - >$28M TVL
+N/A - >$42M TVL
 
 ## Links
 
