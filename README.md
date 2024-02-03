@@ -34,7 +34,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 #### Trading
 
 * [BirdEye](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/birdeye.md) - not guaranteed
-* [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 
@@ -48,15 +47,9 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
 
-#### Meme
-
 #### Social
 
 * [DSCVR](https://dscvr.one/)
-
-### New Chains
-
-* [Dymension](https://twitter.com/dymension/status/1742185621299265738)
 
 ## Strategies
 
@@ -75,6 +68,8 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Bonkmas](https://bonkmas.com/)
 * [BozoCoin](https://bozocoin.app/)
 * [PRNTR](https://twitter.com/printonsol/status/1742681941332079092)
+* [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
+* [Dymension](https://twitter.com/dymension/status/1742185621299265738)
   
 ## Contributing
 
