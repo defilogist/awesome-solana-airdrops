@@ -22,7 +22,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
-* [TextureFi](https://twitter.com/texture_fi) - not guaranteed
+* [TextureFi](https://twitter.com/texture_fi)
 
 #### Liquidity Providing / Staking
 
@@ -33,13 +33,13 @@ We are not responsible to any loss due to the usage of these platforms or due to
   
 #### Trading
 
-* [BirdEye](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/birdeye.md) - not guaranteed
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 
 #### NFT Trading
 
 * [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
+* [MagicEden](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/magiceden.md)
 * [Tensor](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
   
 #### Leveraged Trading
@@ -50,6 +50,10 @@ We are not responsible to any loss due to the usage of these platforms or due to
 #### Social
 
 * [DSCVR](https://dscvr.one/)
+
+#### Meme
+
+* [Bonkmas 2]([https://bonkmas.com/](https://bonkrewards.com/)) - stake your bonkmas rewards
 
 ## Strategies
 
