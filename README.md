@@ -53,7 +53,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Meme
 
-* [Bonkmas 2]([https://bonkmas.com/](https://bonkrewards.com/)) - stake your bonkmas rewards
+* [Bonkmas 2](https://bonkmas.com/](https://bonkrewards.com/) - stake your bonkmas rewards
 
 ## Strategies
 
