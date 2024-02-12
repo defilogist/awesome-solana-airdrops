@@ -30,6 +30,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [SolBlaze](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/solblaze.md)
+* [Sharky.fi](https://twitter.com/SharkyFi/status/1757088923098984894)
   
 #### Trading
 
