@@ -11,7 +11,7 @@ Parcl allows to trade products based on the real estate market values.
 * Invite friends to the program: https://app.parcl.co/referrals
 * Hold their NFT: https://www.tensor.trade/trade/parcl
 
-My referral code: wisetrade
+My referral code: wisestrade
   
 ## Risks
 
