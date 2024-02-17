@@ -24,7 +24,10 @@ N/A
 
 ## Estimate
 
-N/A - TVL: > $14M
+N/A - TVL: > $70M
+
+hypothesis: https://twitter.com/CC2Ventures/status/1758644780354220476 (TLDR: 0.01 cents / point)
+
 
 ## Links
 
