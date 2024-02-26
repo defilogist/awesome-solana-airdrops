@@ -20,13 +20,13 @@ My referral code: wisestrade
 
 ## Release Date
 
-N/A
+- April
 
 ## Estimate
 
-N/A - TVL: > $70M
+TVL: > $70M
 
-hypothesis: https://twitter.com/CC2Ventures/status/1758644780354220476 (TLDR: 0.01 cents / point)
+whales: https://app.whales.market/points-markets?project=Parcl (0.0025 cents / point)
 
 
 ## Links
