@@ -27,8 +27,11 @@ Unknown
 
 ## Estimate
 
-N/A
-TVL: > $200M
+TVL: > $400M
+
+Whales: https://app.whales.market/points-markets?project=Kamino (< 0.0004$/point)
+
+
 
 ## Links
 
