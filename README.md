@@ -33,6 +33,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Trading
 
+* [Clone](https://markets.clone.so/points) - [2](https://docs.clone.so/clone-mainnet-guide/points-program/season-1)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 
