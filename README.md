@@ -60,13 +60,17 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [BitBrawl](https://airdrop.bitbrawl.io/) - follow instructions on the website
 
+#### Privacy
+
+* [Zkverse](https://rewards.zkverse.gg/) - My referal: cf9789d4bd
+
 ## Strategies
 
 * [Multi liquidity provider](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/multi-liquidity-provider.md)
 
 ## Utilities
 
-* [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)
+* [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)hhh
 
 
 ## Past airdrops
