@@ -11,12 +11,13 @@ pools are used in lending vaults to give you extra fees.
 * Lend some assets
 * Create pools of different kind: DLMM, classic (LST), dynamic or multiple
 * DLMM pools will be more rewarded
+  * Make sure to capture as much fees as possible
 * Participate to Discord discussions
 
 ## Risks
 
 * Like any app, it can be compromised
-* Impermanent Loss can lead to unexpected results
+* Impermanent Loss can lead to unexpected results, especially with concentrated liquid pools.
 
 ## Release Date
 
@@ -24,7 +25,7 @@ N/A
 
 ## Estimate
 
-N/A - >$42M TVL
+N/A - >$100M TVL
 
 ## Links
 
