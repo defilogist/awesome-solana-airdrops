@@ -36,6 +36,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Clone](https://markets.clone.so/points) - [2](https://docs.clone.so/clone-mainnet-guide/points-program/season-1) - [Pyth Duties](https://twitter.com/CloneProtocol/status/1767222672902279567)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
+* [Symmetry](https://app.symmetry.fi/leaderboard)
 
 #### NFT Trading
 
