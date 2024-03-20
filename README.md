@@ -61,9 +61,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [BitBrawl](https://airdrop.bitbrawl.io/) - follow instructions on the website
 
-#### Privacy
-
-* [Zkverse](https://rewards.zkverse.gg/) - My referal: cf9789d4bd
 
 ## Strategies
 
@@ -84,6 +81,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [PRNTR](https://twitter.com/printonsol/status/1742681941332079092)
 * [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
 * [Dymension](https://twitter.com/dymension/status/1742185621299265738)
+* [Zkverse](https://rewards.zkverse.gg/) 
   
 ## Contributing
 
