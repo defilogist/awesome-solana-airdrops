@@ -13,6 +13,7 @@ borrowing/lending features and leverages on liquidity positions.
 are the safest.
 * You can then use their borrowing and multiply features too but it comes with more risks.
 * You can use leverage for your pools too, but it comes with more risks.
+* Token lending with SOLs and USDCs are much more rewarding: https://app.kamino.finance/points?seasonTab=season1&tab=boost
 * See your points there: https://app.kamino.finance/points
 
 ## Risks
