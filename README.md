@@ -27,6 +27,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Liquidity Providing / Staking
 
+* [DFloww](https://dflow.net/)
 * [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
