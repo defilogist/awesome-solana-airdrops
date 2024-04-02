@@ -27,14 +27,13 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Liquidity Providing / Staking
 
-* [DFloww](https://dflow.net/)
+* [DFlow](https://dflow.net/)-[Unofficial guide](https://twitter.com/jussy_world/status/1775097206267105569) - invite codes HZZMZ4 HEII09 JKAC8A PTO044 T45ZGP
 * [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 
 #### Trading
 
-* [DFlow](https://twitter.com/jussy_world/status/1775097206267105569) - invite codes HZZMZ4 HEII09 JKAC8A PTO044 T45ZGP
 * [Clone](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/clone.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
