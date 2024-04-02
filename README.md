@@ -57,7 +57,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Meme
 
-* [Bonkmas 2](https://bonkrewards.com/) - stake your bonkmas rewards for future airdrops
+* [Bonkmas 2](https://bonkrewards.com/) - stake your bonkmas rewards for future airdrops, buy a .letsbonk domain
 
 #### Gaming
 
