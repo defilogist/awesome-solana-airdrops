@@ -58,7 +58,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Meme
 
-* [Bonkmas 2]([https://bonkrewards.com/](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md) - stake your bonkmas rewards for future airdrops, buy a .letsbonk domain
+* [Bonkmas 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md) - stake your bonkmas rewards for future airdrops, buy a .letsbonk domain
 
 #### Gaming
 
