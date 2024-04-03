@@ -24,7 +24,9 @@ are the safest.
 
 ## Release Date
 
-Unknown
+Season 1 is ended.
+
+Season 2 started but there is no end date.
 
 ## Estimate
 
