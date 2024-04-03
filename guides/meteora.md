@@ -2,9 +2,11 @@
 
 ## Tool Description
 
-Meteora proposes lending vaults and liquidity pools. Vaults are based balanced
-between existing vaults to ensure maximum performance. Idle funds from dynamic
-pools are used in lending vaults to give you extra fees.
+Meteora proposes lending vaults and liquidity pools: 
+
+- Classic liquidity pair pools (easy to manage)
+- DLMM liquidity pair pools (harder to manage but more rewarding)
+- Vaults that are balanced between existing vaults from other platforms to ensure maximum performance
 
 ## Duties
 
@@ -12,13 +14,16 @@ pools are used in lending vaults to give you extra fees.
 * Create pools of different kind: DLMM, classic (LST), dynamic or multiple
 * DLMM pools will be more rewarded
   * Make sure to capture as much fees as possible
+  * Follow their townhall
+  * Read my guide: https://thewise.trade/dlmm-guide/
 * Participate to Discord discussions
-* 1pt is given for each $1 set / day and 1000pts are given for each $1 fees generated
+* 1pt is given for each $1 set / day
+* 1000pts are given for each $1 fee generated
 
 ## Risks
 
 * Like any app, it can be compromised
-* Impermanent Loss can lead to unexpected results, especially with concentrated liquid pools.
+* Impermanent Loss can lead to unexpected results, especially with concentrated liquid pools (DLMM).
 
 ## Release Date
 
