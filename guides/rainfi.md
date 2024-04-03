@@ -8,7 +8,7 @@ RainFi is a lending/borrowing platform for NFTs and SOL coins.
 
 * Lend sols: https://rain.fi/lend
 * Borrow sols and set your NFTs as collateral: https://banx.g/borrow
-* Borrow sols 
+* Borrow tokens without putting your collateral too much at risk 
 
 ## Risks
 
@@ -18,7 +18,7 @@ RainFi is a lending/borrowing platform for NFTs and SOL coins.
 
 ## Release Date
 
-* Borrow sols N/A
+N/A
 
 ## Estimate
 
