@@ -9,10 +9,12 @@ Margin-fi proposes to lend and borrow Solana assets.
 * Set assets for lending
 * Borrow some assets, the APR is slow enough for the airdrop, the cost is minimal but
   make sure that you collateral can handle price increase. To avoid any risk, do not spend them.
-* Borrowing is more rewarded.
+* Borrowing is more rewarded (4x).
 * Invite people on the platform through their referral link.
 
 My referal link: https://www.mfi.gg/refer/ab9a6dbc-1b75-4da3-9edd-f42baafbb290
+
+Example: Lend 5000 USDC and borrow 15 Sols => 17 000 points per day
 
 ## Risks
 
@@ -25,7 +27,8 @@ Unknown
 
 ## Estimation
 
-N/A
+$0.0007 / point on Whalesmarket
+
 TVL: >$500M
 
 ## Links
