@@ -13,6 +13,7 @@ pools are used in lending vaults to give you extra fees.
 * DLMM pools will be more rewarded
   * Make sure to capture as much fees as possible
 * Participate to Discord discussions
+* 1pt is given for each $1 set / day and 1000pts are given for each $1 fees generated
 
 ## Risks
 
