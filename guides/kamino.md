@@ -9,11 +9,11 @@ borrowing/lending features and leverages on liquidity positions.
 
 ## Duties
 
+* Lending SOLs and USDHs is much more rewarding: https://app.kamino.finance/points?seasonTab=season1&tab=boost
 * The best way to earn points on this platform is to provide liquidities. Stabe pools
 are the safest.
 * You can then use their borrowing and multiply features too but it comes with more risks.
 * You can use leverage for your pools too, but it comes with more risks.
-* Token lending with SOLs and USDCs are much more rewarding: https://app.kamino.finance/points?seasonTab=season1&tab=boost
 * See your points there: https://app.kamino.finance/points
 
 ## Risks
@@ -28,11 +28,9 @@ Unknown
 
 ## Estimate
 
-TVL: > $400M
+TVL: > $1B
 
-Whales: https://app.whales.market/points-markets?project=Kamino (< 0.0004$/point)
-
-
+Whales: https://app.whales.market/points-markets?project=Kamino (< 0.0006$/point)
 
 ## Links
 
