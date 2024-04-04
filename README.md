@@ -19,7 +19,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Lending / Borrowing
 
-* [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
 * [TextureFi](https://twitter.com/texture_fi)
@@ -84,7 +83,9 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [PRNTR](https://twitter.com/printonsol/status/1742681941332079092)
 * [Jupiter](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter.md)
 * [Dymension](https://twitter.com/dymension/status/1742185621299265738)
-* [Zkverse](https://rewards.zkverse.gg/) 
+* [Zkverse](https://rewards.zkverse.gg/)
+* [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
+
   
 ## Contributing
 
