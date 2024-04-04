@@ -26,9 +26,9 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Liquidity Providing / Staking
 
-* [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
+* [Kamino - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
-* [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
+* [Parcl - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Sanctum](https://twitter.com/sanctumso)
 
 #### Trading
@@ -44,7 +44,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
 * [MagicEden](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/magiceden.md)
-* [Tensor](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
+* [Tensor - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
   
 #### Leveraged Trading
 
@@ -57,7 +57,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Meme
 
-* [Bonkmas 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md)
+* [Bonkmas - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md)
 
 #### Gaming
 
@@ -85,6 +85,9 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [Dymension](https://twitter.com/dymension/status/1742185621299265738)
 * [Zkverse](https://rewards.zkverse.gg/)
 * [Banx](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/banx.md)
+* Kamino - Season 1
+* Tensor - Season 1
+* Parcl - Season 1
 
   
 ## Contributing
