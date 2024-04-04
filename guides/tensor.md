@@ -24,7 +24,7 @@ You can play with that aspects to farm as much points as possible while
 limiting risks. AMMs are well rewarded too but they are harder to manage. 
 For this season, the locks will be well rewarded too.
 
-Ny referral link: https://www.tensor.trade/accept?ref=UVA094
+My referral link: https://www.tensor.trade/accept?ref=UVA094
 
 
 ![image](https://github.com/defilogist/awesome-solana-airdrops/assets/104030280/72695c0a-35fd-4442-95a9-caad97d34017)
