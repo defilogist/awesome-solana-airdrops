@@ -26,7 +26,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Liquidity Providing / Staking
 
-* [DFlow](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/dflow.md)
 * [Kamino](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
@@ -35,6 +34,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 #### Trading
 
 * [Clone](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/clone.md)
+* [DFlow](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/dflow.md)
 * [Jupiter - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter2.md)
 * [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
@@ -57,11 +57,11 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 #### Meme
 
-* [Bonkmas 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md) - stake your bonkmas rewards for future airdrops, buy a .letsbonk domain
+* [Bonkmas 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md)
 
 #### Gaming
 
-* [BitBrawl](https://airdrop.bitbrawl.io/) - follow instructions on the website
+* [BitBrawl](https://airdrop.bitbrawl.io/)
 
 
 ## Strategies
