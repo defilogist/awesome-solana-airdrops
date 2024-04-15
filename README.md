@@ -6,16 +6,16 @@ The Solana blockchain experienced recently a big surge of interest. Many applica
 are now in a position where they can launch their tokens. In this context, they reward their early contributors.
 Because their usage is already high, these rewards may be important.
 
-In this awesome listing, we provide guides to helo you getting eligible to these airdrops. But keep in mind that
-it requires to understand what you are doing. So, do your own research and be careful before performing
+In this awesome listing, we provide guides to help you get eligible for these airdrops. But keep in mind that
+it requires you to understand what you are doing. So, do your own research and be careful before performing
 any operation (test with small amounts first, monitor it, etc.).
 
 The airdrops are point-based, more volume = better rewards.
 
-We are not responsible to any loss due to the usage of these platforms or due to a wrong trading position.
+We are not responsible for any loss due to the usage of these platforms or due to a wrong trading position.
 
 
-## Upcoming aidrops
+## Upcoming airdrops
 
 #### Lending / Borrowing
 
