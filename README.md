@@ -22,7 +22,6 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
 * [TextureFi](https://twitter.com/texture_fi)
-* [Sharky.fi](https://twitter.com/SharkyFi/status/1757088923098984894)
 
 #### Liquidity Providing / Staking
 
@@ -72,6 +71,11 @@ We are not responsible to any loss due to the usage of these platforms or due to
 
 * [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)
 
+# Twitter accounts to follow
+
+* [Fabiano](https://twitter.com/FabianoSolana) - guides and data
+* [Jussy](https://twitter.com/jussy_world) - guides
+* [WrongUser](https://twitter.com/wronguser000) - early trends
 
 ## Past airdrops
 
@@ -88,7 +92,7 @@ We are not responsible to any loss due to the usage of these platforms or due to
 * Kamino - Season 1
 * Tensor - Season 1
 * Parcl - Season 1
-
+* [Sharky.fi](https://twitter.com/SharkyFi/status/1757088923098984894)
   
 ## Contributing
 
