@@ -6,13 +6,22 @@ Parcl allows to trade products based on the real estate market values.
 
 ## Duties
 
-* Use Perps (they will be more rewarded in season 2) 
+* Use trading perps, the more fees you generate, the better
+* Store $USDC in your perps wallet
 * Provide liquidities in $USDC (30 days-locking): https://app.parcl.co/lp
-* Use their tool to trade: https://app.parcl.co/collection/active-markets
 * Invite friends to the program: https://app.parcl.co/referrals
 * Hold their NFT: https://www.tensor.trade/trade/parcl
+* Hold $PRCLs to get boost (2 PRCL for every $1 provided to get the maximum boost)
+ 
+**My referral code: wisestrade**
 
-My referral code: wisestrade
+Points distribution:
+
+![image](https://github.com/defilogist/awesome-solana-airdrops/assets/104030280/84f824c6-5c56-43a1-aa55-0a2c5af222f3)
+
+![image](https://github.com/defilogist/awesome-solana-airdrops/assets/104030280/02691a6d-2af8-41f4-bb72-a6d17473ce3c)
+
+    
   
 ## Risks
 
