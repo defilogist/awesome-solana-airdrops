@@ -33,13 +33,10 @@ Points distribution:
 
 Season 1 is ended.
 
-Season 2 is started but no end date is announced.
 
 ## Estimate
 
-TVL: > $300M
-
-whales (season 1): https://app.whales.market/points-markets?project=Parcl
+PRCL trading is already live: https://jup.ag/swap/PRCL-USDC
 
 
 ## Links
