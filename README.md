@@ -35,7 +35,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [Clone](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/clone.md)
 * [DFlow](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/dflow.md)
 * [Jupiter - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter2.md)
-* [Parcl](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
+* [Parcl - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 * [Symmetry](https://app.symmetry.fi/leaderboard) - [2](https://twitter.com/0domart/status/1767182647208350028)
 
