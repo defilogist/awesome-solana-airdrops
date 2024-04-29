@@ -11,6 +11,8 @@ Sanctum is a liquid staking platform.
 * Hold some PathFinders LST, it's a project that looks tied to Sanctum
 * Grow Wonderland pets, their growth depends on your related tokens holdings (XP).
 
+If you want to help me, use my referral: AHGOCH (link: https://sanc.tm/w?ref=AHGOCH)
+
 ## Risks
 
 * Like any app, the platform may be compromised.
