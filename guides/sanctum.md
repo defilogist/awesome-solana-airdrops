@@ -2,7 +2,8 @@
 
 ## Tool Description
 
-Sanctum is a liquid staking platform.
+Sanctum is a liquid staking platform that allows other protocols to benefit from their technologies. 
+It motivates liquidity providers through a gamified reward system.
 
 ## Duties
 
