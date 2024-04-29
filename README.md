@@ -28,8 +28,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [Kamino - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
-* [Sanctum](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/sanctum)
-  .md)
+* [Sanctum](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/sanctum.md)
 
 #### Trading
 
