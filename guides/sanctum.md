@@ -6,10 +6,11 @@ Sanctum is a liquid staking platform.
 
 ## Duties
 
-* Turn some $SOLs to $INFs, infinity tokens (10XP per token per day): https://app.sanctum.so/infinity
-* Hold other Liquid staking tokens like JupSols (10XP per token per day).
+* Turn some $SOLs to $INFs, infinity tokens (10XP per SOL worth per minute): https://app.sanctum.so/infinity
+* Hold other Liquid staking tokens like JupSols (10XP per SOL worth per minute).
 * Hold some PathFinders LST, it's a project that looks tied to Sanctum
-* Grow Wonderland pets, their growth depends on your related tokens holdings (XP).
+* Refer to other users
+* Grow Wonderland pets, their growth depends on your related tokens holdings (XP), there is one pet per type of LST.
 
 If you want to help me, use my referral: AHGOCH (link: https://sanc.tm/w?ref=AHGOCH)
 
