@@ -13,7 +13,7 @@ It motivates liquidity providers through a gamified reward system.
 * Refer to other users
 * Grow Wonderland pets, their growth depends on your related tokens holdings (XP), there is one pet per type of LST.
 
-If you want to help me, use my referral: AHGOCH (link: https://sanc.tm/w?ref=AHGOCH)
+If you want to help me, use my referral: WISETRADE (link: https://sanc.tm/w?ref=AHGOCH)
 
 ## Risks
 
