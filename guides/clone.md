@@ -16,6 +16,7 @@ Clone Protocol allows you to trade non-Solana tokens on the Solana chain.
 * Full point system description: https://docs.clone.so/clone-mainnet-guide/points-program/season-1
 
 My referral link: https://liquidity.clone.so?referralCode=000113
+
 Zealy invite: https://zealy.io/cw/cloneprotocol/invite/8bp5nj8vqByfQOXhP5n1G
 
 ## Risks
