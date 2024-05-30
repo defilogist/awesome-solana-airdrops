@@ -16,6 +16,7 @@ It motivates liquidity providers through a gamified reward system.
   * Quest 2 answer: EVENSTAR CATHEDRAL
   * Quest 3 answer: GLOAMTIDE
   * Quest 4 answer: THE EARNEST SHALL BUILD OUR NEW WORLD
+  * Quest 5 answer: A SYZYGY OVER THE HEART OF VOH
 * BonkSol, HeliumSol, and StrongSol may benefit from project-related airdrops 
 * Grow Wonderland pets, their growth depends on your related tokens holdings (XP), there is one pet per type of LST.
 
