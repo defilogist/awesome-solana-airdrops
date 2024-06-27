@@ -28,7 +28,6 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [Kamino - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
-* [Sanctum](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/sanctum.md)
 
 #### Trading
 
@@ -47,8 +46,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
   
 #### Leveraged Trading
 
-* [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
-* [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
+* Flash Trade
 
 #### Social
 
@@ -57,11 +55,6 @@ We are not responsible for any loss due to the usage of these platforms or due t
 #### Meme
 
 * [Bonkmas - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/bonkmas2.md)
-
-#### Gaming
-
-* [BitBrawl](https://airdrop.bitbrawl.io/)
-
 
 ## Strategies
 
@@ -93,7 +86,12 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * Tensor - Season 1
 * Parcl - Season 1
 * [Sharky.fi](https://twitter.com/SharkyFi/status/1757088923098984894)
-  
+* [Sanctum](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/sanctum.md)
+* [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
+* [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
+* [BitBrawl](https://airdrop.bitbrawl.io/)
+
+
 ## Contributing
 
 Any contribution is welcome, open a PR for any addition!
