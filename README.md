@@ -10,8 +10,6 @@ In this awesome listing, we provide guides to help you get eligible for these ai
 it requires you to understand what you are doing. So, do your own research and be careful before performing
 any operation (test with small amounts first, monitor it, etc.).
 
-The airdrops are point-based, more volume = better rewards.
-
 We are not responsible for any loss due to the usage of these platforms or due to a wrong trading position.
 
 
