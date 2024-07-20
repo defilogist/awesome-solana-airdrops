@@ -25,7 +25,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 
 * [Kamino - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
-* [Parcl - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
+* [Parcl - Season 3](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 
 #### Trading
 
@@ -38,7 +38,6 @@ We are not responsible for any loss due to the usage of these platforms or due t
 
 #### NFT Trading
 
-* [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
 * [MagicEden](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/magiceden.md)
 * [Tensor - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
   
@@ -88,6 +87,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [Drift](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/drift.md)
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
 * [BitBrawl](https://airdrop.bitbrawl.io/)
+* [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
 
 
 ## Contributing
