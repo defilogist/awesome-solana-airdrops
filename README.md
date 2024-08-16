@@ -19,20 +19,19 @@ We are not responsible for any loss due to the usage of these platforms or due t
 
 * [MarginFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/marginfi.md)
 * [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
+* [Kamino - Season 3](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [TextureFi](https://twitter.com/texture_fi)
 
 #### Liquidity Providing / Staking
 
-* [Kamino - Season 3](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [Meteora](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/meteora.md)
 * [Parcl - Season 3](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/parcl.md)
 
 #### Trading
-
-* [DFlow](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/dflow.md)
 * [Jupiter - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/jupiter2.md)
 * [Phoenix](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/phoenix.md)
 * [Symmetry](https://app.symmetry.fi/leaderboard) - [2](https://twitter.com/0domart/status/1767182647208350028)
+* [DFlow](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/dflow.md)
 
 #### NFT Trading
 
