@@ -21,6 +21,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
 * [Kamino - Season 3](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [TextureFi](https://twitter.com/texture_fi)
+* NXFinance
 
 #### Liquidity Providing / Staking
 
@@ -58,7 +59,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 
 * [Solana Airdrop Checker](https://solana-airdrop-checker.solworks.dev/)
 
-# Twitter accounts to follow
+## Twitter accounts to follow
 
 * [Fabiano](https://twitter.com/FabianoSolana) - guides and data
 * [Jussy](https://twitter.com/jussy_world) - guides
