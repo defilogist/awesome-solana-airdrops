@@ -21,7 +21,6 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [RainFi](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/rainfi.md)
 * [Kamino - Season 3](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/kamino.md)
 * [TextureFi](https://twitter.com/texture_fi)
-* NXFinance
 
 #### Liquidity Providing / Staking
 
@@ -36,7 +35,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 
 #### NFT Trading
 
-* [MagicEden](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/magiceden.md)
+* [MagicEden - Season 2](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/magiceden.md)
 * [Tensor - Season 4](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/tensor.md)
   
 #### Leveraged Trading
@@ -86,6 +85,7 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [Zeta](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/zeta.md)
 * [BitBrawl](https://airdrop.bitbrawl.io/)
 * [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
+* NXFinance
 
 
 ## Contributing
