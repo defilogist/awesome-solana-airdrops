@@ -86,6 +86,8 @@ We are not responsible for any loss due to the usage of these platforms or due t
 * [BitBrawl](https://airdrop.bitbrawl.io/)
 * [ExchangeArt](https://github.com/defilogist/awesome-solana-airdrops/blob/main/guides/exchangeart.md)
 * NXFinance
+* Magic Eden - Season 1
+* Jupiter - Season 2
 
 
 ## Contributing
