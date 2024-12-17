@@ -11,6 +11,9 @@ diamond points. It will probably lead to get some $NFT, their upcoming token.
 * List NFTs on top volume collections (close to the floor)
 * Set [AMMs](https://thewise.trade/amm-trading-guide) on top volume collections
 * Trade NFTs: buy and list them.
+* Stake $ME for a long period
+* Do required quests
+* Manage NFTs on different chains
 
 ## Risks
 
